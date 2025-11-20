@@ -48,7 +48,7 @@ Instead of simple DOM events, interaction is handled via 3D Raycasting:
 🚀 How to Run Locally
 This project is built as a Single File Application for simplicity. You do not need Node.js or a build step.
  * Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/jarvis-solar-system.git
+   git clone https://github.com/syedismailn-ra/SolarSystem3D.git
 
  * Open the file:
    Simply double-click index.html to open it in your browser.
